@@ -5,9 +5,9 @@ Este repositório contém scripts SQL para criação, povoamento e manipulação
 
 Estrutura dos Arquivos
 
-- 01_inserts.sql — Comandos INSERT para povoar as tabelas principais.
-- 02_selects.sql — Consultas SELECT utilizando WHERE, ORDER BY, LIMIT e JOIN.
-- 03_updates_deletes.sql — Comandos UPDATE e DELETE com condições.
+- insert.sql — Comandos INSERT para povoar as tabelas principais.
+- selects.sql — Consultas SELECT utilizando WHERE, ORDER BY, LIMIT e JOIN.
+- updates_deletes.sql — Comandos UPDATE e DELETE com condições.
 
 Tabelas Utilizadas
 
