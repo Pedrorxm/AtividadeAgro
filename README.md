@@ -21,9 +21,9 @@ Como executar
 
 Importe o banco no MySQL Workbench ou PgAdmin e execute os scripts na seguinte ordem:
 
-1. 01_inserts.sql
-2. 02_selects.sql
-3. 03_updates_deletes.sql
+1. insert.sql
+2. selects.sql
+3. updates_deletes.sql
 
 Objetivos Atendidos
 
